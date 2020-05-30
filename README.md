@@ -1,24 +1,25 @@
-# README
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://www.theodinproject.com">
+    <img src="https://www.theodinproject.com/assets/odin-logo-2d729f16279e9fc3b58ce847eacf07f883bdfc95eb23bb5064ed59d36ef551d6.svg" alt="Logo">
+  </a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  <h3 align="center">Blog App</h3>
 
-Things you may want to cover:
+  <p align="center">
+    A Ruby on Rails project from The Odin Project / Jumpstartlab.com
+    <br />
+    <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails"><strong>View the assignment »</strong></a>
+    <br />
+  </p>
+</p>
 
-* Ruby version
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is an introductory project from the Ruby on Rails course in The Odin Project's curriculum.<br />
+The goal of this project is to introduce you to the process of building a Ruby on Rails app.<br />
+A link to the full description of the assignment can be found above.<br />
+<br />
+<!-- A live version of my solution can be found <a href="">here</a> -->
