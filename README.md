@@ -22,4 +22,4 @@ This is an introductory project from the Ruby on Rails course in The Odin Projec
 The goal of this project is to introduce you to the process of building a Ruby on Rails app.<br />
 A link to the full description of the assignment can be found above.<br />
 <br />
-<!-- A live version of my solution can be found <a href="">here</a> -->
+A live version of my solution can be found <a href="https://mighty-scrubland-34719.herokuapp.com/">here</a>
